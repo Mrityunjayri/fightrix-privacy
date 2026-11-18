@@ -1,2 +1,3 @@
-# fightrix-privacy
-Privacy policy for the FIGHTRIX Android game
+# FIGHTRIX – Privacy Policy
+
+Live page: https://mrityunjayri.github.io/fightrix-privacy/
